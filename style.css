@@ -146,6 +146,21 @@ article  img {
     height: 90%;
 }
 
+.link {
+    color: var(--cor5);
+    text-decoration: none;
+}
+
+.link:hover {
+    color: var(--cor3);
+    text-decoration: underline;
+}
+
+.link:active {
+    color: var(--cor6);
+    text-decoration: none;
+}
+
 /* terminei de editar o estilo do artigo */
 
 /* agora vou editar o aside */
